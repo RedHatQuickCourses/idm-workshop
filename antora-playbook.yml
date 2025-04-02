@@ -1,6 +1,6 @@
 site:
-  title: FIXME Course Title
-  start_page: REPLACEREPONAME::index.adoc
+  title: Red Hat Identity Management (IdM) Workshop
+  start_page: idm-workshop::index.adoc
 
 content:
   sources:
